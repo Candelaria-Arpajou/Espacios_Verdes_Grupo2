@@ -6,5 +6,5 @@ Integrantes:
 
 - Candelaria Arpajou: mcarpajou@santafe-conicet.gov.ar
 - Gisela Brunetto: gisebrunetto@gmail.com
-- Williams Gremoliche: gisebrunetto@gmail.com
-- Maria Virginia Romero Messein: virginiaromeromessein@gmail.com
+- Williams Gremoliche: wgremoliche@gmail.com
+- Maria Virginia Romero Messein: virginiaromeromessein@gmail.com4
